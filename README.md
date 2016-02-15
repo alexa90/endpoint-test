@@ -1,4 +1,4 @@
-#Unbottle yourself
+#Endpoint test
 
 I did this assignment at Monterosa so that I would learn to understand JavaScript more and understand JavaScript logic.
 
